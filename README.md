@@ -15,7 +15,9 @@ Some Features:
 - 🔄 Stripe Event Types
 - 🌗 Light/Dark Mode
 
-Setup .env file
+Setup .env file:
+
+```shell
 DATABASE_URL=<get_your_mongo_db_url>
 
 KINDE_CLIENT_ID=
