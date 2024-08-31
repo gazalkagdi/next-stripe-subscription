@@ -2,6 +2,10 @@
 
 ![Demo App](/public/demo-for-readme.png)
 
+This project utilizes Next.js 14 with TypeScript, Prisma, and MongoDB to build a feature-rich web application with Stripe integration for managing subscriptions. It includes monthly and annual subscription plans, a Stripe Billing Portal, and uses Kinde Auth for secure authentication.
+
+url - next-stripe-subscription-five.vercel.app/
+
 Some Features:
 
 - ⚛️ Tech Stack: Next.js 14, TypeScript, Prisma, MongoDB, Stripe
