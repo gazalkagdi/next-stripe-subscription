@@ -28,6 +28,7 @@
     "react": "^18",
     "react-avatar": "^5.0.3",
     "react-dom": "^18",
+    "stripe": "^16.9.0",
     "tailwind-merge": "^2.5.2",
     "tailwindcss-animate": "^1.0.7"
   },
