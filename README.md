@@ -1,18 +1,21 @@
+<<<<<<< HEAD
 <h1 align="center">Stripe Subscription website</h1>
+=======
+<h1 align="center">Stripe Subscription</h1>
+>>>>>>> 4d6076e (readme update)
 
 ![Demo App](/public/demo-for-readme.png)
 
 Some Features:
 
-- ⚛️ Tech Stack: Next.js 14, TypeScript, Prisma, MongoDB, Stripe
-- 🔐 Authentication with Kinde Auth
-- 💸 Monthly and Annually Subscriptions with Stripe
-- 💵 Building a Stripe Billing Portal
-- 🔄 Stripe Event Types
-- 🌗 Light/Dark Mode
+⚛️ Tech Stack: Next.js 14, TypeScript, Prisma, MongoDB, Stripe
+🔐 Authentication with Kinde Auth
+💸 Monthly and Annually Subscriptions with Stripe
+💵 Building a Stripe Billing Portal
+🔄 Stripe Event Types
+🌗 Light/Dark Mode
 
-### Setup .env file
-
+Setup .env file
 DATABASE_URL=<get_your_mongo_db_url>
 
 KINDE_CLIENT_ID=
@@ -32,16 +35,8 @@ STRIPE_SECRET_KEY=<get_from_stripe>
 STRIPE_WEBHOOK_SECRET=<get_from_stripe>
 NEXT_PUBLIC_STRIPE_CUSTOMER_PORTAL_URL=<get_from_stripe>
 
-````
-
-### Install dependencies
-
-```shell
+Install dependencies
 npm install
-````
 
-### Start the app
-
-```shell
+Start the app
 npm run dev
-```
