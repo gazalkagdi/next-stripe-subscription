@@ -1,4 +1,4 @@
-<h1 align="center">Stripe Subscriptions Course</h1>
+<h1 align="center">Stripe Subscription website</h1>
 
 ![Demo App](/public/demo-for-readme.png)
 
